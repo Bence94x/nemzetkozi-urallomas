@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nemzetkozi-urallomas/static/css/main.6c473d73.chunk.css",
+    "main.js": "/nemzetkozi-urallomas/static/js/main.beef51a3.chunk.js",
+    "main.js.map": "/nemzetkozi-urallomas/static/js/main.beef51a3.chunk.js.map",
+    "runtime-main.js": "/nemzetkozi-urallomas/static/js/runtime-main.31a742fd.js",
+    "runtime-main.js.map": "/nemzetkozi-urallomas/static/js/runtime-main.31a742fd.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/nemzetkozi-urallomas/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.fd49d243.chunk.js": "/nemzetkozi-urallomas/static/js/2.fd49d243.chunk.js",
+    "static/js/2.fd49d243.chunk.js.map": "/nemzetkozi-urallomas/static/js/2.fd49d243.chunk.js.map",
+    "static/js/3.b589d7cb.chunk.js": "/nemzetkozi-urallomas/static/js/3.b589d7cb.chunk.js",
+    "static/js/3.b589d7cb.chunk.js.map": "/nemzetkozi-urallomas/static/js/3.b589d7cb.chunk.js.map",
+    "index.html": "/nemzetkozi-urallomas/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/nemzetkozi-urallomas/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.6c473d73.chunk.css.map": "/nemzetkozi-urallomas/static/css/main.6c473d73.chunk.css.map",
+    "static/js/2.fd49d243.chunk.js.LICENSE.txt": "/nemzetkozi-urallomas/static/js/2.fd49d243.chunk.js.LICENSE.txt",
+    "static/media/iss.3ee2eb52.png": "/nemzetkozi-urallomas/static/media/iss.3ee2eb52.png",
+    "static/media/iss.7880e61a.mp4": "/nemzetkozi-urallomas/static/media/iss.7880e61a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a742fd.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.fd49d243.chunk.js",
+    "static/css/main.6c473d73.chunk.css",
+    "static/js/main.beef51a3.chunk.js"
+  ]
+}

@@ -12,12 +12,12 @@ function App() {
   return (
     <div className="App">
 
-      <Router>
+      <Router path={process.env.PUBLIC_URL + '/'}>
         <Navbar />
         <Switch>
-          <Route path="/nemzetkozi-urallomas/" exact component={Home} />
-          <Route path="/nemzetkozi-urallomas/Map" component={Map} />
-          <Route path="/nemzetkozi-urallomas/Name" component={Name} />
+          <Route path="/" exact component={Home} />
+          <Route path="/Map" component={Map} />
+          <Route path="/Name" component={Name} />
         </Switch>
 
         <Footer />
